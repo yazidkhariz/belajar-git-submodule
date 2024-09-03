@@ -9,3 +9,7 @@ function sayGuest(){
     return "HEllo";
 
 }
+
+function  sum(a,b) {
+    return a+b;
+}
